@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @hannahwn
-- 👀 I’m interested in cybersecurity and cloud engineering and networking.
-- 🌱 I’m currently learning python, CCNA networking and cloud engineering
-- 💞️ I’m looking to collaborate on the above mentioned
-- 📫 How to reach me hannahwanjikunyongo@gmail.com
+
 
 <!---
 hannahwn/hannahwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
