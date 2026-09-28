@@ -12,7 +12,7 @@ I would like to learn<br>
 2.Javascript<br>
 3.Java
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahwn)]
 (https://github.com/hannahwn/github-readme-stats)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hannahwn&theme=city-lights&hide_border=true" alt="GitHub Streak" /></a>
