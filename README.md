@@ -10,25 +10,16 @@ Here we learn, practice, get good, and the cycle continues.
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-- 🔭 I'm currently working on a data pipeline project using Airflow, dbt, and Azure
-- 🌱 I'm currently learning Python, JavaScript, and Java
+- 🔭 I am working on a data pipeline project using Airflow, dbt, and Azure
+- 🌱 I'm currently perfecting my Python, JavaScript, and Javascript
 - 👯 I'm looking to collaborate on data engineering and networking projects
 - 💬 Ask me about networking, cloud computing, or data pipelines
 - ⚡ Fun fact: I'm learning how to play the guitar
+  
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-### I am interested in
-1. Networking
-2. Cloud computing
-3. Testing
 
-### I would like to learn
-1. Python
-2. JavaScript
-3. Java
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## 🛠️ Tech stack
 
