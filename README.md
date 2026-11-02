@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FAD58&width=435&lines=Welcome+to+a+path+to+greatness" alt="Typing SVG" /></a>
 
-Here we learn, practice, get good, and the cycle continues.
+Here we learn, practice, get good, and the cycle continues. I am an alumni of the Hack your Future ,Data engineering track where we learnt Javascript and how to make full end to end pipelines.
 
 </div>
 
